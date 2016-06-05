@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="文泉驿微米黑" className="FskyFont_wqy_microhei" url="./files/fonts/0font_201661024153488.swf"/>
+    <font name="Webding" className="" url="./files/fonts/0font_201661024157192.swf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/0font_201661024157224.swf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/1font_201661024157239.swf"/>
+    <font name="Comic Sans MS" className="FskyFont_Comic_Sans_MS" url="./files/fonts/0font_201661024157255.swf"/>
+    <font name="Comic Sans MS" className="FskyFont_Comic_Sans_MS_Bold" url="./files/fonts/1font_201661024157273.swf"/>
+    <font name="Comic Sans MS" className="FskyFont_Comic_Sans_MS_Bold_Italic" url="./files/fonts/2font_201661024157277.swf"/>
+    <font name="Comic Sans MS" className="FskyFont_Comic_Sans_MS_Italic" url="./files/fonts/3font_201661024157293.swf"/>
+  </fonts>
+</data>
